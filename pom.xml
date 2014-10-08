@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.funcon</groupId>
-    <artifactId>legacy-complete</artifactId>
+    <artifactId>legacy-initial</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Legacy Complete Solution</name>
+    <name>Legacy Initial Solution</name>
     <url>http://maven.apache.org</url>
 
     <properties>
